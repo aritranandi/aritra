@@ -1,5 +1,5 @@
 .about {
-  padding: 100px 15px;
+  padding: 0px 20%;
   background-color: #fff;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .img img {
-  width: 75%;
+  width: 60%;
   border-radius: 10px;
   display: block;
 }
